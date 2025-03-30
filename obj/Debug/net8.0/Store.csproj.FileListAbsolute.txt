@@ -164,3 +164,4 @@ C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\refint\Store.dll
 C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\Store.pdb
 C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\Store.genruntimeconfig.cache
 C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\ref\Store.dll
+C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\Store.sourcelink.json

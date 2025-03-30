@@ -10,6 +10,9 @@ var connectionString = builder.Configuration.GetSection("Database:ConnectionStri
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
 
+// Adding Controller
+builder.Services.AddControllers();
 var app = builder.Build();
+app.MapControllers();
 
 app.Run();
