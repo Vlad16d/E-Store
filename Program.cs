@@ -3,10 +3,10 @@ using Store.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Получаем строку подключения из конфигурации
+// Connection string
 var connectionString = builder.Configuration.GetSection("Database:ConnectionStrings:DefaultConnection").Value;
 
-// Добавляем DbContext
+// Adding DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
 
