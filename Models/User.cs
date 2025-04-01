@@ -8,7 +8,7 @@ namespace Store.Models
 
         [Required]
         [MaxLength(50)]
-        public string UserName { get; set; }
+        public string Username { get; set; }
 
         [Required]
         [MaxLength(200)]

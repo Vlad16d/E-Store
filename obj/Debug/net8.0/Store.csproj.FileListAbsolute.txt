@@ -165,3 +165,9 @@ C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\Store.pdb
 C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\Store.genruntimeconfig.cache
 C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\ref\Store.dll
 C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\Store.sourcelink.json
+C:\Users\imaf2\source\repos\Store\Store\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\imaf2\source\repos\Store\Store\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\imaf2\source\repos\Store\Store\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\Store.RazorAssemblyInfo.cache
+C:\Users\imaf2\source\repos\Store\Store\obj\Debug\net8.0\Store.RazorAssemblyInfo.cs
